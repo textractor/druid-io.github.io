@@ -5,7 +5,7 @@ sectionid: faq
 ---
 
 # Licensing Druid {.index}
-### [Email info@druid.io](mailto:info@druid.io) for questions not covered here.
+### Can't find an answer? [Email info@druid.io](mailto:info@druid.io).
 
 +-- {.text-part}
 |
